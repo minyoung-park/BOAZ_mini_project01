@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# 원본/가공 데이터 (용량 큼)
+data/raw/
+data/processed/
+*.parquet
+*.json.gz
+
+# Kaggle 인증
+kaggle.json

@@ -1,1 +1,1 @@
-# BOAZ_mini_project01
+# BOAZ Mini Project 01 — Spotify Million Playlist
