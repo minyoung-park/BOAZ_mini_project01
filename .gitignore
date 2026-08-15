@@ -12,5 +12,10 @@ data/processed/
 *.parquet
 *.json.gz
 
+# 목적 제목 파이프라인 산출물
+purpose_titles/outputs/
+
 # Kaggle 인증
 kaggle.json
+
+*.md
