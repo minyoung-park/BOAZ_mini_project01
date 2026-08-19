@@ -1,8 +1,10 @@
 .env
 .venv/
 venv/
+.uv-cache/
 __pycache__/
 *.pyc
+*.py[cod]
 .ipynb_checkpoints/
 .DS_Store
 
@@ -14,6 +16,9 @@ data/processed/
 
 # 목적 제목 파이프라인 산출물
 purpose_titles/outputs/
+
+# BPR-MF 체크포인트
+artifacts/
 
 # Kaggle 인증
 kaggle.json
